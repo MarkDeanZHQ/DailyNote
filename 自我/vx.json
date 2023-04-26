@@ -1,0 +1,30 @@
+{
+    "created_time": "2022-10-22T17:32:42Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-07-12T09:01:49Z",
+            "id": "340",
+            "modified_time": "2022-07-12T09:17:08Z",
+            "name": "随手记.md",
+            "signature": "177751275645",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "方向论"
+        },
+        {
+            "name": "路程论"
+        },
+        {
+            "name": "自我论"
+        }
+    ],
+    "id": "347",
+    "modified_time": "2022-10-22T17:32:42Z",
+    "signature": "177760119098",
+    "version": 3
+}
