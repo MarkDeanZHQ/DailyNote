@@ -1,0 +1,74 @@
+{
+    "created_time": "2023-06-25T05:24:04Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-11-13T03:28:04Z",
+            "id": "363",
+            "modified_time": "2022-11-13T14:46:49Z",
+            "name": "The draft.md",
+            "signature": "79316829365316",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-12-18T04:37:31Z",
+            "id": "378",
+            "modified_time": "2024-04-27T09:06:22Z",
+            "name": "draft.md",
+            "signature": "177764997387",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2023-06-25T05:24:34Z",
+            "id": "455",
+            "modified_time": "2023-06-25T05:24:34Z",
+            "name": "dm题库(改善多选题).txt",
+            "signature": "118237842362258",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2023-06-25T05:24:41Z",
+            "id": "456",
+            "modified_time": "2023-06-25T05:24:41Z",
+            "name": "创建表.txt",
+            "signature": "3343172226969",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2023-06-25T05:24:42Z",
+            "id": "457",
+            "modified_time": "2023-06-25T05:24:42Z",
+            "name": "存储过程.txt",
+            "signature": "52898504888218",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2024-04-24T05:10:48Z",
+            "id": "483",
+            "modified_time": "2024-04-27T08:09:04Z",
+            "name": "draft2.md",
+            "signature": "177807594584",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "教务系统计划表"
+        }
+    ],
+    "id": "454",
+    "modified_time": "2023-06-25T05:24:04Z",
+    "signature": "41838964100980",
+    "version": 3
+}
