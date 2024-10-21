@@ -1,0 +1,27 @@
+{
+    "created_time": "2024-06-06T10:48:28Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-06-12T12:11:35Z",
+            "id": "494",
+            "modified_time": "2024-06-12T12:11:36Z",
+            "name": "mathematicas.md",
+            "signature": "113818351538295",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "建模"
+        },
+        {
+            "name": "408"
+        }
+    ],
+    "id": "487",
+    "modified_time": "2024-06-06T10:48:28Z",
+    "signature": "177811330044",
+    "version": 3
+}

@@ -163,7 +163,7 @@ A --> B
 流程图
 ```flow
 st=>start: 开始 :>http://www.baidu.com
-op=>operation: 你的操作|:>#h
+op=>operation: 你的操作|:>#h 
 happy=>operation: :smile：
 sub=>subroutine: 子程序
 cond=>condition: 是 / 否?

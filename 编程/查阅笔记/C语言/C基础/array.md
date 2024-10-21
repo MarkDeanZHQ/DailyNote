@@ -26,7 +26,6 @@ int a[5];
 - 数组名 a 是个常量，是一个地址。
 - 三个数组名的数值相等，意义在于 加1 时体现的差异
 
-![](file:///E:/VIDEO/v/%E5%8E%8B%E7%BC%A9/%E5%8E%8B%E7%BC%A9%E7%89%88/%E7%AC%AC1%E9%98%B6%E6%AE%B5-C%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98/01-c%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/04%E6%95%B0%E7%BB%84/04-%E7%AC%94%E8%AE%B0/04-%E6%95%B0%E7%BB%84%E5%92%8C%E5%AD%97%E7%AC%A6%E6%95%B0%E7%BB%84_files/Image%20[1].png)
 
 
 

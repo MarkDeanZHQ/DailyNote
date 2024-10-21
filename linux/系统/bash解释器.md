@@ -1,4 +1,16 @@
 # bash解释器
+
+<details><summary>目录</summary>
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [05\. Bash解析器常用快捷键(熟练)](#05%5C-bash%E8%A7%A3%E6%9E%90%E5%99%A8%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E7%86%9F%E7%BB%83)
+- [06\. Linux系统相关快捷键(了解)](#06%5C-linux%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BA%86%E8%A7%A3)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+</details>
+
+
 ## 05\. Bash解析器常用快捷键(熟练)
 
 **5.1 Tab键**
